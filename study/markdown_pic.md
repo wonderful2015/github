@@ -22,6 +22,7 @@ Markdown 是一种标记语言，通过简单的标注，可以使文本具有�
 Markdown 中添加图片，其实就是将图片的链接使用固定格式的标注，如下：
 
 ![头像](https://img.juemuren4449.com/7af8125993c702dcffbd99ade00c90b4.png)
+
 显示的效果如下：
 
 头像
